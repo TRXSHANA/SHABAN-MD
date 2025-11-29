@@ -10,16 +10,17 @@
   },
   "dependencies": {
     "@whiskeysockets/baileys": "7.0.0-rc.9",
-    "@adiwajshing/keyed-db": "latest",
+    "@adiwajshing/keyed-db": "^0.2.4",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@vitalets/google-translate-api": "^9.2.1",
-    "pino": "^9.7.0",
+    "pino": "^7.0.5",
     "util": "^0.12.5",
-    "express": "~> 3.11.0",
+    "express": "latest",
     "moment-timezone": "^0.6.0",
     "axios": "^1.7.9",
     "crypto-digest-sync": "^1.0.0",
-    "crypto-js": "~> 3.2.1",
+    "crypto-js": "latest",
+    "cheerio": "^1.0.0-rc.12",
     "file_size_url": "1.0.4",
     "fs-extra": "^11.1.0",
     "ffmpeg": "^0.0.4",
@@ -42,8 +43,9 @@
     "sqlite3": "^5.1.7-rc.0",
     "dotenv": "^16.0.0",
     "imagekit": "^5.1.0",
-    "jimp": "^1.6.0",
+    "jimp": "latest",
+    "javascript-obfuscator": "^4.0.0",
     "api-dylux": "latest",
-    "pm2": "^6.0.14"
+    "pm2": "^6.0.8"
   }
 }
